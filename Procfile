@@ -1,1 +1,1 @@
-gunicorn ogarthurdev.wsgi --log-file -
+web: gunicorn ogarthurdev.wsgi --log-file -
